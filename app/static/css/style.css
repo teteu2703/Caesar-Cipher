@@ -1,0 +1,13 @@
+body {
+    background: rgb(151, 209, 243);
+}
+
+.header-container{
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.header-logo {
+    height: 300px;
+}
